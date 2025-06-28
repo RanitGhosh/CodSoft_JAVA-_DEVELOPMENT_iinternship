@@ -1,4 +1,4 @@
-# CodSoft_JAVA-_DEVELOPMENT_iinternship
+# CodSoft_JAVA-_DEVELOPMENT_internship
 🚀 Internship Project  CODSOFT 🚀
 Tasks Overview
 
